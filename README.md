@@ -1,5 +1,5 @@
 In this repo we are collecting responses to misrepresentations of Monero in the media - including information and responses we sent to the media.
-[check our issues](https://github.com/riatlabs/monero-response/issues) if you want to see our current status. Responeses are collected in the Wiki.
+[check our issues](https://github.com/riatlabs/monero-response/issues) if you want to see our current status. Responses are collected in the Wiki.
 
 You can help by fact-checking online "news" outlets and calling them out if they are misrepresenting information. Please [file an issue](https://github.com/riatlabs/monero-response/issues) if you have found something online.
 
