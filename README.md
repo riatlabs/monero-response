@@ -9,3 +9,8 @@ Please also call people out if they are spreading FUD or wrong information - esp
 * CMC TLDR: "Qubic executed a 51% attack on Monero, prompting concerns about the robustness of Monero’s proof-of-work system amidst threats posed by concentrated mining power" https://coinmarketcap.com/community/post/367141825/
 
 Our current focus is the [alleged 51% attack](https://riat.at/qubic-attack-on-xmr-monero-no-51-attack-proven/) on XMR Monero, but we are slowly working our way up to address other misrepresentations and forms of lazy journalism as we go.
+
+The following news reports have been of better quality so far. If you find issues with them please delete them from there and create an issue.
+
+* 2025-08-18 [Protos] Qubic failed to 51% attack Monero, but Dogecoin is next https://protos.com/qubic-failed-to-51-attack-monero-but-dogecoin-is-next/
+* 2025-08-13 [Decrypt] Monero 51% Attack: Why AI Protocol Qubic Says It'll 'Help' the Privacy Chain https://decrypt.co/334806/monero-51-attack-why-ai-protocol-qubic-help-privacy-chain 
