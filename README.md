@@ -8,4 +8,4 @@ Please also call them out on X, and on Coinmarketcap. Here are a few good places
 * Monero was successfully attacked; XMR is now insecure & centralized Qubic can rewrite XMR history, censor & double-spend!" https://x.com/Justin_Bons/status/1958216006071189907
 * CMC TLDR: "Qubic executed a 51% attack on Monero, prompting concerns about the robustness of Monero’s proof-of-work system amidst threats posed by concentrated mining power" https://coinmarketcap.com/community/post/367141825/
 
-Our current focus is the [alleged 51% attack](https://riat.at/qubic-attack-on-xmr-monero-no-51-attack-proven/) on XMR Monero, but we are 
+Our current focus is the [alleged 51% attack](https://riat.at/qubic-attack-on-xmr-monero-no-51-attack-proven/) on XMR Monero, but we are slowly working our way up to address other misrepresentations and forms of lazy journalism as we go.
